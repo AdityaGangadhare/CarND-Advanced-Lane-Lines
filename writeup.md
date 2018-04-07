@@ -16,13 +16,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calib.jpg "Undistorted"
-[image2]: ./output_images/warped.jpg "Road Transformed"
-[image3]: ./output_images/thresholded.jpg "Binary Example"
-[image4]: ./output_images/processed.jpg "Warp Example"
-[image5]: ./output_images/linefit.jpg "Fit Visual"
-[image6]: ./output_images/all.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
+[image1]: ./output_images/calib.JPG "Undistorted"
+[image2]: ./output_images/warped.JPG "Road Transformed"
+[image3]: ./output_images/thresholded.JPG "Binary Example"
+[image4]: ./output_images/processed.JPG "Warp Example"
+[image5]: ./output_images/linefit.JPG "Fit Visual"
+[image6]: ./output_images/all.JPG "Output"
+[video1]: ./project_video.JPG "Video"
 
 
 ---
